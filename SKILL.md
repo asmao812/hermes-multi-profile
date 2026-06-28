@@ -2,7 +2,8 @@
 name: hermes-multi-profile
 description: Hermes Agent 多 Profile 部署——一台服务器跑多个独立 AI 助手。systemd 管理、PID 冲突解决、飞书多 Bot 绑定。
 version: 1.0.0
-source: wind 微信公众号文章 + 实战验证
+source: wind 微信公众号文章「Hermes Agent 裂变之 Profile 分身」(https://mp.weixin.qq.com/s/zgIGWDwXmL8XCsxwTsaquA) + 实战验证
+author: asmao812 (提炼为可复用技能)
 ---
 
 # Hermes Agent 多 Profile 部署

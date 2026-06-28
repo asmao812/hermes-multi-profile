@@ -6,6 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-Compatible-blue)](https://github.com/NousResearch/hermes-agent)
 
+> 📖 **Distilled from:** wind's WeChat article — [Hermes Agent 裂变之 Profile 分身](https://mp.weixin.qq.com/s/zgIGWDwXmL8XCsxwTsaquA)  
+> ✍️ **Skillified by** [asmao812](https://github.com/asmao812) — turning practical experience into reusable workflows.
+
 ---
 
 ## What Problem This Solves / 解决什么问题
